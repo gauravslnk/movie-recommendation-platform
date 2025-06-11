@@ -1,0 +1,52 @@
+Title,Genre,Rating,Director,Release Year,Duration (min)
+Gone Girl,Thriller,9.8,John Doe,2020,130
+Forrest Gump 50,Romance,6.1,Francis Ford Coppola,1993,113
+The Matrix 49,Comedy,8.6,James Cameron,1997,102
+Interstellar 48,Drama,5.7,Ridley Scott,2018,135
+Pulp Fiction 47,Drama,5.8,Martin Scorsese,2013,123
+Inception 46,Thriller,9.1,Alfred Hitchcock,2010,95
+Fight Club 45,Drama,9.9,Quentin Tarantino,1990,139
+Gladiator 44,Romance,8.2,Francis Ford Coppola,1981,113
+Gladiator 43,Drama,6.3,James Cameron,2014,96
+Pulp Fiction 42,Drama,6.8,Alfred Hitchcock,1981,111
+Pulp Fiction 41,Thriller,6.2,Steven Spielberg,1988,95
+The Shawshank Redemption 40,Comedy,6.4,Ridley Scott,2016,115
+Forrest Gump 39,Thriller,8.6,Francis Ford Coppola,1980,102
+Gladiator 38,Drama,7.7,Francis Ford Coppola,1992,136
+The Shawshank Redemption 37,Thriller,9.1,Ridley Scott,1990,103
+Interstellar 36,Thriller,7.2,Christopher Nolan,1985,127
+Pulp Fiction 35,Sci-Fi,9.2,Francis Ford Coppola,1986,132
+The Shawshank Redemption 34,Sci-Fi,5.3,Francis Ford Coppola,2016,138
+The Godfather 33,Thriller,9.4,Quentin Tarantino,2014,103
+Gladiator 32,Thriller,6,Alfred Hitchcock,2016,126
+Pulp Fiction 31,Drama,8.9,Ridley Scott,2004,132
+Inception 30,Drama,8.6,Christopher Nolan,1985,141
+Forrest Gump 29,Sci-Fi,5.2,Alfred Hitchcock,1990,146
+Interstellar 28,Thriller,6.1,Christopher Nolan,1995,136
+The Dark Knight 27,Thriller,8.5,Martin Scorsese,1988,97
+Fight Club 26,Comedy,8.7,Stanley Kubrick,1991,106
+Forrest Gump 25,Romance,8.5,Martin Scorsese,2008,105
+The Shawshank Redemption 24,Sci-Fi,5.6,Peter Jackson,2007,99
+Inception 23,Thriller,9,Ridley Scott,2016,108
+Forrest Gump 22,Drama,7.4,Francis Ford Coppola,2000,117
+Forrest Gump 21,Action,5.5,Alfred Hitchcock,2013,149
+The Shawshank Redemption 20,Romance,9,Alfred Hitchcock,2014,100
+The Shawshank Redemption 19,Action,5.7,Martin Scorsese,2009,104
+Gladiator 18,Romance,9.9,Christopher Nolan,2016,105
+Fight Club 17,Thriller,6.8,Christopher Nolan,1991,94
+Interstellar 16,Drama,8.6,Peter Jackson,1996,149
+The Godfather 15,Romance,6.2,James Cameron,1998,99
+Inception 14,Romance,5.8,Quentin Tarantino,2004,107
+Inception 13,Drama,5.8,Ridley Scott,1982,123
+Fight Club 12,Sci-Fi,7.1,Steven Spielberg,2017,140
+The Godfather 11,Comedy,7.7,Stanley Kubrick,1991,143
+The Shawshank Redemption 10,Romance,7.8,James Cameron,1991,123
+Interstellar 9,Sci-Fi,6,Ridley Scott,2015,111
+The Matrix 8,Comedy,5.7,Stanley Kubrick,2010,90
+The Godfather 7,Action,9.6,Peter Jackson,2003,110
+Gladiator 6,Sci-Fi,7.5,Steven Spielberg,2000,133
+Pulp Fiction 5,Romance,7.3,Ridley Scott,1992,144
+Pulp Fiction 4,Romance,7,Stanley Kubrick,2008,141
+Gladiator 3,Action,5.4,Francis Ford Coppola,2011,115
+The Godfather 2,Drama,9.9,James Cameron,1994,136
+Inception 1,Sci-Fi,5.9,Christopher Nolan,1989,121
