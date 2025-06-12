@@ -23,6 +23,18 @@ A console-based C++ application that provides personalized movie recommendations
 - **Modify Movie Details**
 - **View Full Movie Database**
 
+---
+
+### 🔐 Admin Access
+
+> ⚙️ **Admin functionality is hardcoded** for simplicity during development.
+
+```
+Username: MH112024  
+Password: employee
+```
+
+---
 ### 💾 Data Management
 - **CSV File Handling**: All movie and user data is stored and managed via CSV files.
 - **Persistent Storage**: All changes are saved automatically.
